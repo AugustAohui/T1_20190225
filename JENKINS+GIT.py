@@ -1,4 +1,4 @@
 x = 'hello world, '
 y = 'welcome jenkins!'
-z = 'test1'
+z = ',jenkins push test.'
 print(x+y+z)
