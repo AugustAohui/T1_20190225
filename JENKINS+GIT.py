@@ -1,3 +1,4 @@
 x = 'hello world, '
 y = 'welcome jenkins!'
-print(x+y)
+z = 'test1'
+print(x+y+z)
